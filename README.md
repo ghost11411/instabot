@@ -1,2 +1,1 @@
-# instabot
 Instagram Bot
